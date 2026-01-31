@@ -35,5 +35,5 @@ ______________________________________________________
 - Zero-sum game-based resolution
 - Final skin segmentation output
 ______________________________________________________
-## Anex
+## Annex
 Drive link for more results we have : https://drive.google.com/drive/folders/1SxsAOeEIIFKR48T9ArNSQx-0ExE9lp2G?usp=sharing
