@@ -2,7 +2,7 @@ This repository contains the **Implementation Of Skin Segmentation Using Game Th
 ### Data2_FSD/ and Data3_SFA/ and Data4_HGR/ : 
 Holds the pre processed datasets used in the project, including: Original images, Patch images, Ground-truth masks , CSV files
 ### Processing/:
-Contain the code for the prepocessing of the data we did with the labeling 
+Contain the code for the prepocessing of the data we did
 ### `Heuristic_RGB_Detector.py`
 Implements the heuristic RGB-based skin detector used as the first classifier. 
 This method relies on predefined RGB rules and serves as a baseline classifier in the system.
